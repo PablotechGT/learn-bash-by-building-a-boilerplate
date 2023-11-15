@@ -62,3 +62,4 @@ mkdir webiste
 ls --color=auto
 del webiste
 mkdir website
+ls --color=auto
