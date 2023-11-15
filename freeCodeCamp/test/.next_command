@@ -58,3 +58,7 @@ cd ..
 cd ../..
 ls --color=auto
 clear
+mkdir webiste
+ls --color=auto
+del webiste
+mkdir website
